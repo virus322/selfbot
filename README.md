@@ -57,4 +57,4 @@ More information [virusantibot](https://telegram.me/virusantibot)
 
 ### Our Telegram channel:
 
-[@virusantibot](https://telegram.me/BeyondTeam)
+[@virusantibot](https://telegram.me/virusantibot)
